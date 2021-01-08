@@ -1,0 +1,23 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.shell.linux": "/usr/bin/env",
+    "terminal.integrated.shellArgs.linux": [
+        "--",
+        "flatpak-spawn",
+        "--host",
+        "bash"
+    ],
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.minimap.enabled": false
+}
